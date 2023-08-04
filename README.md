@@ -1,2 +1,2 @@
 # ima-create_offce
-## sample
+## イマクリエイトのオフィスを自由課題で作成しました
